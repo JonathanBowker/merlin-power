@@ -1,0 +1,520 @@
+{
+    "title": "Merlin Power Brand Guidelines",
+    "description": "This style guide provides a flexible framework and a series of assets which when used correctly creates a brand that is unmistakably Merlin Power.",
+    "contact": {
+        "name": "Hannah Upchurch",
+        "role": "Operations Coordinator",
+        "email": "hannah@merlinequipment.com",
+        "phone": "+44 (0) 1202 697979"
+    },
+    "sections": [
+        {
+            "title": "Brand Strategy",
+            "alternative_titles": ["Brand Strategy Overview", "Our Brand Strategy", "Strategic Brand Direction"],
+            "description": "Our brand has a unique and rich heritage. It is built on 25 years of delivering innovative power solutions across sectors as diverse as the emergency services, defence, and commercial sectors. Our brand strategy consists of two simple and connected ideas: — How we define our brand is our brand essence. — How we communicate our brand is our brand promise.",
+            "images": [
+                {
+                    "name": "Brand Strategy",
+                    "alternative_names": ["Brand Strategy Image", "Strategy Overview Graphic", "Brand Strategy Visual"],
+                    "url": "https://res.cloudinary.com/brandpad/image/upload/c_scale,dpr_auto,f_auto,w_1024/v1/10708/brand-strategy-01",
+                    "download_link": "https://res.cloudinary.com/brandpad/image/upload/c_scale,dpr_auto,f_auto,w_1024/v1/10708/brand-strategy-01"
+                }
+            ]
+        },
+        {
+            "title": "Brand Essence",
+            "alternative_titles": ["Core Brand Essence", "Essence of Our Brand", "Brand Core Values"],
+            "description": "Our brand essence is: Blue, Brave & Bulletproof. Blue represents trust and our colour signature. Brave represents our ability to go further, to innovate and to take each customer mission wholeheartedly. Bulletproof represents quality, precision, and performance in all that we do. This is the powerful, emotional heart and soul of our brand. This enables differentiation from competitors; an evocation of the customers' experience with our brand; a distinctive and consistent delivery of our brand. Our brand essence should be used internally to inspire our people and spotlight our positive attitude towards our work.",
+            "images": [
+                {
+                    "name": "Brand Essence",
+                    "alternative_names": ["Brand Essence Image", "Essence Graphic", "Core Values Visual"],
+                    "url": "https://res.cloudinary.com/brandpad/image/upload/c_scale,dpr_auto,f_auto,w_1024/v1/10708/bbb",
+                    "download_link": "https://res.cloudinary.com/brandpad/image/upload/c_scale,dpr_auto,f_auto,w_1024/v1/10708/bbb"
+                }
+            ]
+        },
+        {
+            "title": "Brand Promise",
+            "alternative_titles": ["Our Brand Promise", "Commitment to Customers", "Brand Value Proposition"],
+            "description": "Our brand promise is: Power in Action. This is how we articulate our brand value proposition, affirming our customers' expectation of our brand. We use our brand promise to tell stories about what we do and why we do it. We use our brand promise to sign off all communications. ‘Power in Action’ communicates our ability to create power solutions that deliver real value for our customers, focusing on real-world benefits where they matter most. ‘Power in Action’ demonstrates our ability to build and integrate critical power solutions with innovation, unrivalled quality, resilience, and original thinking. At Merlin Power, we put ‘Power in Action’.",
+            "images": [
+                {
+                    "name": "Brand Promise",
+                    "alternative_names": ["Brand Promise Image", "Promise Graphic", "Value Proposition Visual"],
+                    "url": "https://res.cloudinary.com/brandpad/image/upload/c_scale,dpr_auto,f_auto,w_1280/v1/10708/power-in-action_v5_extraslower",
+                    "download_link": "https://res.cloudinary.com/brandpad/image/upload/c_scale,dpr_auto,f_auto,w_1280/v1/10708/power-in-action_v5_extraslower"
+                }
+            ]
+        },
+        {
+            "title": "Logo",
+            "alternative_titles": ["Brand Logo", "Corporate Logo", "Company Logo"],
+            "description": "Our logo is the most important asset in our identity system. It represents Power in Action, suggestive of energy and momentum. Always aim to use our Logo in the Merlin Blue colourway in the first instance. Base image: Positive version. Hover image: Negative version. Do not — Use any other logos — Stretch or amend the logos — Separate Merlin and Power.",
+            "images": [
+                {
+                    "name": "Logo - Positive Version",
+                    "alternative_names": ["Logo Positive", "Positive Logo", "Primary Logo Version"],
+                    "url": "https://res.cloudinary.com/brandpad/image/upload/c_scale,dpr_auto,f_auto,w_3072/v1/10708/logo_white-on-blue",
+                    "download_link": "https://res.cloudinary.com/brandpad/image/upload/c_scale,dpr_auto,f_auto,w_3072/v1/10708/logo_white-on-blue"
+                },
+                {
+                    "name": "Logo - Negative Version",
+                    "alternative_names": ["Logo Negative", "Negative Logo", "Secondary Logo Version"],
+                    "url": "https://res.cloudinary.com/brandpad/image/upload/c_scale,dpr_auto,f_auto,w_3072/v1/10708/logo_blue-on-white",
+                    "download_link": "https://res.cloudinary.com/brandpad/image/upload/c_scale,dpr_auto,f_auto,w_3072/v1/10708/logo_blue-on-white"
+                }
+            ]
+        },
+        {
+            "title": "Secondary Logo Use",
+            "alternative_titles": ["Alternative Logo Use", "Secondary Logo Application", "Logo Variants"],
+            "description": "The need may arise to provide some flexibility in the application of our logo. However, this flexibility must feature only our colour palette. Mono variants also exist for B&W printing needs. Do not — Use non-brand colours — Apply our logo without prior approval.",
+            "images": [
+                {
+                    "name": "Secondary Logo",
+                    "alternative_names": ["Mono Logo", "Alternative Logo", "Secondary Logo Version"],
+                    "url": "https://res.cloudinary.com/brandpad/image/upload/c_scale,dpr_auto,f_auto,w_3072/v1/10708/logo_secondary-2",
+                    "download_link": "https://res.cloudinary.com/brandpad/image/upload/c_scale,dpr_auto,f_auto,w_3072/v1/10708/logo_secondary-2"
+                }
+            ]
+        },
+        {
+            "title": "Clear Space & Minimum Sizes",
+            "alternative_titles": ["Logo Clear Space", "Logo Minimum Size", "Clear Space Rules"],
+            "description": "Our logo adheres to clear space and minimum size rules to ensure legibility when reproduced. The clear space is determined by the 'P' of Power. The minimum size of our logo is 60mm/170px in width. When commissioning applications, always conduct a print/production test to ensure legibility, particularly when dealing with logos close to the minimum size. Do not — Encroach on the clear space — Go smaller than the minimum size — Commission without testing.",
+            "images": [
+                {
+                    "name": "Clear Space and Minimum Size",
+                    "alternative_names": ["Logo Clear Space Graphic", "Minimum Size Image", "Clear Space Visual"],
+                    "url": "https://res.cloudinary.com/brandpad/image/upload/c_scale,dpr_auto,f_auto,w_1280/v1/10708/logo_clearspaceminimum-size_2",
+                    "download_link": "https://res.cloudinary.com/brandpad/image/upload/c_scale,dpr_auto,f_auto,w_1280/v1/10708/logo_clearspaceminimum-size_2"
+                }
+            ]
+        },
+        {
+            "title": "M Icon",
+            "alternative_titles": ["M Logo", "M Symbol", "M Brand Icon"],
+            "description": "In addition to the Merlin Power logo, we use the M from the logo as a shorthand asset for the brand. We use this at both large scale (for hero graphics) and small scale (for when space doesn't allow for the Merlin Power logo). It's never to be used as a replacement for the Merlin Power logo (other than social media icons), and it is typically paired with the Merlin Power logo, for example on a side of a vehicle or on the reverse of a branded uniform. See examples. It may also be used in a home environment, where it is used instead of the Merlin Power logo. See Home & Away Communication principles. Do not — Use the M Icon as the master logo — Stretch or amend the M Icon — Change the colour of the M Icon.",
+            "images": [
+                {
+                    "name": "M Icon - Base Image",
+                    "alternative_names": ["M Icon Image", "Base M Icon", "Primary M Icon"],
+                    "url": "https://res.cloudinary.com/brandpad/image/upload/c_scale,dpr_auto,f_auto,w_1792/v1/10708/logo_m",
+                    "download_link": "https://res.cloudinary.com/brandpad/image/upload/c_scale,dpr_auto,f_auto,w_1792/v1/10708/logo_m"
+                },
+                {
+                    "name": "M Icon - Hover Image",
+                    "alternative_names": ["M Icon Hover", "Hover M Icon", "Secondary M Icon"],
+                    "url": "https://res.cloudinary.com/brandpad/image/upload/c_scale,dpr_auto,f_auto,w_1792/v1/10708/logo_m-4-up",
+                    "download_link": "https://res.cloudinary.com/brandpad/image/upload/c_scale,dpr_auto,f_auto,w_1792/v1/10708/logo_m-4-up"
+                },
+                {
+                    "name": "M Icon - Applications",
+                    "alternative_names": ["M Icon Application", "M Icon Examples", "M Icon Usage"],
+                    "url": "https://res.cloudinary.com/brandpad/image/upload/c_scale,dpr_auto,f_auto,w_3072/v1/10708/logo-applications-08",
+                    "download_link": "https://res.cloudinary.com/brandpad/image/upload/c_scale,dpr_auto,f_auto,w_3072/v1/10708/logo-applications-08"
+                }
+            ]
+        },
+        {
+            "title": "Social Media M Icon",
+            "alternative_titles": ["Social Media Icon", "M Icon for Social Media", "Profile Icon"],
+            "description": "To ensure brand consistency, we use our M Icon for all social media platforms as our profile icon. If banners are permissible, this is a perfect place to feature our logo or brand promise. See the two examples below. Do not — Use another asset as our profile icon.",
+            "images": [
+                {
+                    "name": "Social Media M Icon",
+                    "alternative_names": ["Social Profile Icon", "Social Media Profile", "M Icon for Social"],
+                    "url": "https://res.cloudinary.com/brandpad/image/upload/c_scale,dpr_auto,f_auto,w_1280/v1/10708/logo_some_2",
+                    "download_link": "https://res.cloudinary.com/brandpad/image/upload/c_scale,dpr_auto,f_auto,w_1280/v1/10708/logo_some_2"
+                }
+            ]
+        },
+        {
+            "title": "LinkedIn",
+            "alternative_titles": ["LinkedIn Banner", "LinkedIn Social Image", "LinkedIn Graphic"],
+            "description": "When creating social banners, keep it simple. These examples show two different approaches. The first uses full-frame photography and the second uses full-frame graphic texture. Both feature Merlin Blue for immediate brand recognition. Base image: LinkedIn — photographic. Hover image: LinkedIn — graphic.",
+            "images": [
+                {
+                    "name": "LinkedIn - Photographic",
+                    "alternative_names": ["LinkedIn Photo", "Photographic LinkedIn", "LinkedIn Photography"],
+                    "url": "https://res.cloudinary.com/brandpad/image/upload/c_scale,dpr_auto,f_auto,w_1280/v1/10708/linkedin_banner2-12",
+                    "download_link": "https://res.cloudinary.com/brandpad/image/upload/c_scale,dpr_auto,f_auto,w_1280/v1/10708/linkedin_banner2-12"
+                },
+                {
+                    "name": "LinkedIn - Graphic",
+                    "alternative_names": ["LinkedIn Graphic", "Graphic LinkedIn", "LinkedIn Visual"],
+                    "url": "https://res.cloudinary.com/brandpad/image/upload/c_scale,dpr_auto,f_auto,w_1280/v1/10708/linkedin_banner-13",
+                    "download_link": "https://res.cloudinary.com/brandpad/image/upload/c_scale,dpr_auto,f_auto,w_1280/v1/10708/linkedin_banner-13"
+                }
+            ]
+        },
+        {
+            "title": "Typography",
+            "alternative_titles": ["Brand Typography", "Font Usage", "Text Styles"],
+            "description": "We use two type families in our brand identity system, Barlow and Roboto Mono. Both of these typefaces have been chosen to complement the technical nature of Merlin Power. Headlines / H1 For short, impactful headlines we use Barlow Medium or Regular, all caps. Tracking is set wide at 200 or 300. Subheads / H2 & H3 We use a combination of both Barlow and Roboto Mono for subheads. Weights are flexible depending on application. Bodycopy For body copy, we primarily use Barlow Regular and Barlow Medium for highlighting. For intro paragraphs, Roboto Mono is permissible. Tables/cells For tables, we use Roboto Mono as the monospaced nature of the font is perfect for data input. Product Names For product names, we use Barlow Medium, in Title Case with no spaces. Tracking is set to 50. Both font families are freely available at Google Fonts. Do not — Use any other fonts — Use other weights.",
+            "images": [
+                {
+                    "name": "Barlow Font",
+                    "alternative_names": ["Barlow Typeface", "Barlow Text Style", "Barlow Example"],
+                    "url": "https://res.cloudinary.com/brandpad/image/upload/c_scale,dpr_auto,f_auto,w_1280/v1/10708/type_barlow_2",
+                    "download_link": "https://res.cloudinary.com/brandpad/image/upload/c_scale,dpr_auto,f_auto,w_1280/v1/10708/type_barlow_2"
+                },
+                {
+                    "name": "Roboto Mono Font",
+                    "alternative_names": ["Roboto Mono Typeface", "Roboto Mono Text Style", "Roboto Mono Example"],
+                    "url": "https://res.cloudinary.com/brandpad/image/upload/c_scale,dpr_auto,f_auto,w_3072/v1/10708/type_roboto-mono_2",
+                    "download_link": "https://res.cloudinary.com/brandpad/image/upload/c_scale,dpr_auto,f_auto,w_3072/v1/10708/type_roboto-mono_2"
+                },
+                {
+                    "name": "Numbers Font",
+                    "alternative_names": ["Numerals Typeface", "Number Text Style", "Numerals Example"],
+                    "url": "https://res.cloudinary.com/brandpad/image/upload/c_scale,dpr_auto,f_auto,w_1280/v1/10708/type_numbers-hover",
+                    "download_link": "https://res.cloudinary.com/brandpad/image/upload/c_scale,dpr_auto,f_auto,w_1280/v1/10708/type_numbers-hover"
+                }
+            ]
+        },
+        {
+            "title": "Bespoke Numerals",
+            "alternative_titles": ["Custom Numerals", "Number Design", "Unique Numbers"],
+            "description": "Bespoke numerals share the same aesthetic as our logo, and are used to create pace in communications. Most suited for section dividers, signage, and animation sequences. The examples show all permissible colour options.",
+            "images": [
+                {
+                    "name": "Bespoke Numerals",
+                    "alternative_names": ["Custom Numerals Image", "Numerals Example", "Bespoke Numbers Graphic"],
+                    "url": "https://res.cloudinary.com/brandpad/image/upload/c_scale,dpr_auto,f_auto,w_3072/v1/10708/numbers_2",
+                    "download_link": "https://res.cloudinary.com/brandpad/image/upload/c_scale,dpr_auto,f_auto,w_3072/v1/10708/numbers_2"
+                }
+            ]
+        },
+        {
+            "title": "Colour",
+            "alternative_titles": ["Brand Colours", "Colour Palette", "Corporate Colours"],
+            "description": "Colour plays an essential role in how we express ourselves. Our palette is bright, vibrant, and powerful. Our primary colour is Merlin Volt Blue, which must be present in all communications. Should additional colours be required for charts and diagrams, tints are permissible at 50% and 75%. A print test must be conducted for any large scale printing jobs. Do not — Use any other colours — Exclude Merlin Volt Blue — Go to print without testing.",
+            "colours": [
+                {
+                    "name": "Merlin Volt Blue",
+                    "alternative_names": ["Primary Blue", "Volt Blue", "Merlin Blue"],
+                    "hex": "#0022ee",
+                    "rgb": "0, 34, 238",
+                    "cmyk": "100, 69, 0, 0",
+                    "pms": "293 C / 293 U"
+                },
+                {
+                    "name": "Merlin Black",
+                    "alternative_names": ["Primary Black", "Black", "Merlin Black"],
+                    "hex": "#000000",
+                    "rgb": "0, 0, 0",
+                    "cmyk": "0, 0, 0, 100",
+                    "pms": "Black C / Black U"
+                },
+                {
+                    "name": "Merlin Grey",
+                    "alternative_names": ["Primary Grey", "Grey", "Merlin Grey"],
+                    "hex": "#eaeaea",
+                    "rgb": "234, 234, 234",
+                    "cmyk": "0, 0, 0, 8",
+                    "pms": "Cool Grey 1 C / CG1 U"
+                },
+                {
+                    "name": "Merlin Dark Blue",
+                    "alternative_names": ["Dark Blue", "Secondary Blue", "Merlin Dark Blue"],
+                    "hex": "#000f46",
+                    "rgb": "0, 15, 70",
+                    "cmyk": "100, 63, 0, 67",
+                    "pms": "295 C / 295 U"
+                },
+                {
+                    "name": "Merlin White",
+                    "alternative_names": ["White", "Primary White", "Merlin White"],
+                    "hex": "#FFFFFF",
+                    "rgb": "255, 255, 255",
+                    "cmyk": "0, 0, 0, 0",
+                    "pms": "-"
+                }
+            ]
+        },
+        {
+            "title": "Iconography",
+            "alternative_titles": ["Brand Icons", "Icon Suite", "Icon Library"],
+            "description": "At Merlin Power, we are the experts in every stage of the power ecosystem. We call this 'The Power Cycle'. Each of the five stages: Generate, Store, Manage, Convert, and Distribute, is represented by an icon. The assets are accompanied by a descriptor. For editorial purposes, these can be removed if their respective titles appear in close proximity to the icons. The suite also includes two additional icons for extreme duty and portable power product ranges. The examples show all permissible colour options. The whole suite can appear in one colour range, for instance. Do not — Amend the icons — Use non-brand colours — Exclude a descriptor in layouts.",
+            "images": [
+                {
+                    "name": "The Power Cycle",
+                    "alternative_names": ["Power Cycle Icon", "Power Ecosystem", "Power Cycle Visual"],
+                    "url": "https://res.cloudinary.com/brandpad/image/upload/c_scale,dpr_auto,f_auto,w_1280/v1/10708/iconography_power-cycle",
+                    "download_link": "https://res.cloudinary.com/brandpad/image/upload/c_scale,dpr_auto,f_auto,w_1280/v1/10708/iconography_power-cycle"
+                },
+                {
+                    "name": "Extreme Duty and Portable",
+                    "alternative_names": ["Extreme Duty Icon", "Portable Power Icon", "Additional Icons"],
+                    "url": "https://res.cloudinary.com/brandpad/image/upload/c_scale,dpr_auto,f_auto,w_1280/v1/10708/iconography_edp",
+                    "download_link": "https://res.cloudinary.com/brandpad/image/upload/c_scale,dpr_auto,f_auto,w_1280/v1/10708/iconography_edp"
+                },
+                {
+                    "name": "Iconography Examples",
+                    "alternative_names": ["Icon Examples", "Icon Suite Samples", "Brand Iconography"],
+                    "url": "https://res.cloudinary.com/brandpad/image/upload/c_scale,dpr_auto,f_auto,w_1280/v1/10708/iconography_examples",
+                    "download_link": "https://res.cloudinary.com/brandpad/image/upload/c_scale,dpr_auto,f_auto,w_1024/v1/10708/iconography_examples"
+                }
+            ]
+        },
+        {
+            "title": "Verbal Identity",
+            "alternative_titles": ["Brand Voice", "Communication Style", "Tone of Voice"],
+            "description": "We are world-leading experts in power systems. How we communicate and the tone of voice we use in our communications is critically important in demonstrating that we both understand our customers' world and challenges; and that we are there to put power in action for them. We have some simple principles that we follow when we write. Our TOV should always feel: IMMEDIATE, ACTIVE, BOLD, DIRECT, ADVENTUROUS, CONFIDENT. When you write something, read it and consider the above principles. If you don’t distinctly recognise them in your writing, try again.",
+            "images": [
+                {
+                    "name": "Tone of Voice - Single Line Headlines",
+                    "alternative_names": ["TOV Single Line", "Single Line Headlines", "Headline Style"],
+                    "url": "https://res.cloudinary.com/brandpad/image/upload/c_scale,dpr_auto,f_auto,w_1280/v1/10708/tone-of-voice1",
+                    "download_link": "https://res.cloudinary.com/brandpad/image/upload/c_scale,dpr_auto,f_auto,w_1280/v1/10708/tone-of-voice1"
+                },
+                {
+                    "name": "Tone of Voice - Two Word Headlines",
+                    "alternative_names": ["TOV Two Word", "Two Word Headlines", "Headline Examples"],
+                    "url": "https://res.cloudinary.com/brandpad/image/upload/c_scale,dpr_auto,f_auto,w_1280/v1/10708/tone-of-voice-24",
+                    "download_link": "https://res.cloudinary.com/brandpad/image/upload/c_scale,dpr_auto,f_auto,w_1280/v1/10708/tone-of-voice-24"
+                }
+            ]
+        },
+        {
+            "title": "Copywriting",
+            "alternative_titles": ["Writing Style", "Ad Copy", "Content Writing"],
+            "description": "When writing ads or content, please follow the simple three step system as follows. This ensures we retain clarity, relevance, and engagement with customers. 1. Punchy Headline: As per the examples above we use language and phrases that feel powerful and emphasise impact. We are bold and direct with a touch of adventure. It’s important to bring some emotion and keep it short! Try using 2 words only to capture the point and create interest. 2. Clear Proposition: The headline is doing the work of engaging the reader. The proposition and body copy needs to make it clear what we are offering. Keep it simple, clear, and relevant. Use statistics and numbers if it adds immediacy and gets the point across. Use it to expand the story in the headline. 3. Call to Action: This is the opportunity to convert the reader into our content or sales funnel. Make it clear what will happen when they click, e.g., DISCOVER, READ MORE, or SHOP NOW.",
+            "images": [
+                {
+                    "name": "Copywriting",
+                    "alternative_names": ["Copywriting Guide", "Ad Writing", "Content Guide"],
+                    "url": "https://res.cloudinary.com/brandpad/image/upload/c_scale,dpr_auto,f_auto,w_1280/v1/10708/copywriting-25",
+                    "download_link": "https://res.cloudinary.com/brandpad/image/upload/c_scale,dpr_auto,f_auto,w_1280/v1/10708/copywriting-25"
+                }
+            ]
+        },
+        {
+            "title": "Image Style",
+            "alternative_titles": ["Visual Style", "Imagery Guidelines", "Photography Style"],
+            "description": "Power in Action is our main focus when it comes to lifestyle imagery – whether this is still or moving image. This is brought to life across four key areas to support visual storytelling.",
+            "subsections": [
+                {
+                    "title": "Power Applied",
+                    "alternative_titles": ["Power in Use", "Applied Power", "Power Application"],
+                    "description": "Our brand in application. Heroic shots of our main sectors: marine, emergency services, defence, transportation – the true meaning of Power in Action. Art direction principles: — Reportage in style, photography shows real-world use of our power systems. — The presence of environment immediately contextualises the impact we make. — Shot near, far and from above, we use scale for pace and variety. — Lighting is natural, covering all climates, time-zones, and weather conditions.",
+                    "images": [
+                        {
+                            "name": "Power Applied",
+                            "alternative_names": ["Applied Power Image", "Power in Use Visual", "Power Application Photo"],
+                            "url": "https://res.cloudinary.com/brandpad/image/upload/c_scale,dpr_auto,f_auto,w_3072/v1/10708/image_style_applied",
+                            "download_link": "https://res.cloudinary.com/brandpad/image/upload/c_scale,dpr_auto,f_auto,w_3072/v1/10708/image_style_applied"
+                        }
+                    ]
+                },
+                {
+                    "title": "Human Empowerment",
+                    "alternative_titles": ["Empowering Humans", "Empowerment Imagery", "Human Focus"],
+                    "description": "Focus on how our technology acts as an enabler for our customers. From saving lives to sailing oceans. Art direction principles: — With greater human presence in frame, we see people in the moment, enabled by our power systems. — Closer crops provide greater intimacy, delivering heightened emotional engagement with the content. — Subjects are never staged, we can choose to shoot over-the-shoulder or simply capture details of empowerment, such as hands on the wheel when navigating land or sea.",
+                    "images": [
+                        {
+                            "name": "Human Empowerment",
+                            "alternative_names": ["Empowerment Image", "Human Focus Photo", "Empowering Visual"],
+                            "url": "https://res.cloudinary.com/brandpad/image/upload/c_scale,dpr_auto,f_auto,w_3072/v1/10708/brandpad-guidelines_human-empowerment",
+                            "download_link": "https://res.cloudinary.com/brandpad/image/upload/c_scale,dpr_auto,f_auto,w_3072/v1/10708/brandpad-guidelines_human-empowerment"
+                        }
+                    ]
+                },
+                {
+                    "title": "Real World",
+                    "alternative_titles": ["Real World Context", "Contextual Imagery", "Environmental Shots"],
+                    "description": "Real world context and environments. This reflects where power is needed in the world and should suggest some of the challenges faced in delivering it. Art direction principles: — For greater storytelling, shots of the natural world are used to compliment Power Applied and Human Empowerment imagery. — Covering land and sea, these shots showcase the necessity of having the right electrical power solutions to take on the demands of the natural world. — In some instances, we illustrate the implied presence of Merlin Power, such as the tyre tracks of military vehicles to the wake from a Merlin powered lifeboat.",
+                    "images": [
+                        {
+                            "name": "Real World",
+                            "alternative_names": ["Real World Image", "Contextual Photo", "Environmental Visual"],
+                            "url": "https://res.cloudinary.com/brandpad/image/upload/c_scale,dpr_auto,f_auto,w_3072/v1/10708/photograhy_realworld-05",
+                            "download_link": "https://res.cloudinary.com/brandpad/image/upload/c_scale,dpr_auto,f_auto,w_3072/v1/10708/photograhy_realworld-05"
+                        }
+                    ]
+                },
+                {
+                    "title": "The Power Cycle",
+                    "alternative_titles": ["Power Cycle Imagery", "Power Stages Visual", "Abstract Power Images"],
+                    "description": "In addition to lifestyle imagery we also use abstract imagery as a graphical representation of power. Combine image styles to create dramatic visual effects in communications. Content: Technology and innovation, systems, details, precision. Art direction principles: — These images have been chosen to convey each of the five stages in The Power Cycle: Generate, Store, Manage, Convert, Distribute. — All images appear in Merlin Volt Blue as shown and only these images are to be used when communicating The Power Cycle. — Each stage of The Power Cycle has its own image which is presented alongside its respective icon.",
+                    "images": [
+                        {
+                            "name": "The Power Cycle",
+                            "alternative_names": ["Power Cycle Image", "Power Stages Photo", "Abstract Power Visual"],
+                            "url": "https://res.cloudinary.com/brandpad/image/upload/c_scale,dpr_auto,f_auto,w_3072/v1/10708/photograhy_powercycle",
+                            "download_link": "https://res.cloudinary.com/brandpad/image/upload/c_scale,dpr_auto,f_auto,w_3072/v1/10708/photograhy_powercycle"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Image Treatment",
+            "alternative_titles": ["Image Editing", "Visual Treatment", "Imagery Enhancements"],
+            "description": "To differentiate ourselves, our identity system features an ownable imagery style. We utilise a combination of colour treatment, image manipulation, and image pairing. A working knowledge of the Adobe suite is required to apply the following treatments to imagery. Applying Colour: We apply Merlin Volt Blue as horizontal bands to our imagery. We never apply this to more than 50% of the image area and bands can shift up and down. We do this by applying a layer above the image and setting the Blend Mode to 'Screen'. This allows the natural colour of the image to still come through. Motion Blur: To create a sense of motion, where desirable, we can add horizontal motion blur to images. This is a useful tool to create greater visual interest and convey speed and energy. Image Pairing: We experiment with dynamic pairings. The use of colour, scale, motion blur, and interesting cropping aids in delivering Power in Action. A print test must be conducted for any large scale printing jobs. Do not — Use any other colours — Go to print without testing.",
+            "images": [
+                {
+                    "name": "Image Treatment",
+                    "alternative_names": ["Editing Example", "Visual Treatment Example", "Imagery Enhancement Example"],
+                    "url": "https://res.cloudinary.com/brandpad/image/upload/c_scale,dpr_auto,f_auto,w_3072/v1/10708/brandpad-guidelines_image_treatments-31",
+                    "download_link": "https://res.cloudinary.com/brandpad/image/upload/c_scale,dpr_auto,f_auto,w_3072/v1/10708/brandpad-guidelines_image_treatments-31"
+                },
+                {
+                    "name": "Image Treatment",
+                    "alternative_names": ["Editing Example", "Visual Treatment Example", "Imagery Enhancement Example"],
+                    "url": "https://res.cloudinary.com/brandpad/image/upload/c_scale,dpr_auto,f_auto,w_3072/v1/10708/brandpad-guidelines_image_treatments-32",
+                    "download_link": "https://res.cloudinary.com/brandpad/image/upload/c_scale,dpr_auto,f_auto,w_3072/v1/10708/brandpad-guidelines_image_treatments-32"
+                },
+                {
+                    "name": "Image Treatment",
+                    "alternative_names": ["Editing Example", "Visual Treatment Example", "Imagery Enhancement Example"],
+                    "url": "https://res.cloudinary.com/brandpad/image/upload/c_scale,dpr_auto,f_auto,w_3072/v1/10708/brandpad-guidelines_image_treatments-33",
+                    "download_link": "https://res.cloudinary.com/brandpad/image/upload/c_scale,dpr_auto,f_auto,w_3072/v1/10708/brandpad-guidelines_image_treatments-33"
+                }
+            ]
+        },
+        {
+            "title": "Product Photography",
+            "alternative_titles": ["Product Images", "Product Shots", "Product Photos"],
+            "description": "Our product portfolio and technological innovations are category-leading. We shoot our products with pride, showcasing each one in a clear and simple way. Consistency is key, each product is studio shot at the same orientations and with the same lighting setup. Precise orientations elevate our products' desirability and ensure our customers have a full understanding of function and size. Products should be shot: 1. At 3/4 view 2. From the side 3. From the front 4. From the top. Close-up details (5) are used to highlight craft, quality, and unique product attributes. The back may be useful where connectivity is a consideration, for instance.",
+            "images": [
+                {
+                    "name": "Product Photography",
+                    "alternative_names": ["Product Image Example", "Product Photo", "Product Shot Example"],
+                    "url": "https://res.cloudinary.com/brandpad/image/upload/c_scale,dpr_auto,f_auto,w_3072/v1/10708/brandpad-guidelines_product-photography-31",
+                    "download_link": "https://res.cloudinary.com/brandpad/image/upload/c_scale,dpr_auto,f_auto,w_3072/v1/10708/brandpad-guidelines_product-photography-31"
+                }
+            ]
+        },
+        {
+            "title": "Layout Principles",
+            "alternative_titles": ["Layout Guidelines", "Design Layout", "Page Layout"],
+            "description": "Print: This example illustrates an A4 format. We follow three steps to determine the logo size, margin widths, and column grid. 1. Logo sizing: Divide the format diagonal length by 6, this provides the logo width (X). 2. Margins and logo positioning: Margins are determined by the M of Merlin. The logo can be placed top right, left, and centre for communications such as letterheads. 3. Column grid: A basic and flexible column grid is created using divisions of 3 as shown.",
+            "images": [
+                {
+                    "name": "Print Layout",
+                    "alternative_names": ["Print Layout Example", "A4 Layout", "Print Design Example"],
+                    "url": "https://res.cloudinary.com/brandpad/image/upload/c_scale,dpr_auto,f_auto,w_3072/v1/10708/print_layout-14",
+                    "download_link": "https://res.cloudinary.com/brandpad/image/upload/c_scale,dpr_auto,f_auto,w_3072/v1/10708/print_layout-14"
+                }
+            ]
+        },
+        {
+            "title": "Print Layouts",
+            "alternative_titles": ["Print Design", "Editorial Layouts", "Print Examples"],
+            "description": "Our brand utilises a 12 column grid when designing editorial layouts. This provides maximum flexibility to add pace and scale to documents. The margins are adjustable to the needs of the design. The examples shown have been created in Adobe InDesign. Using an A4 format as an example, we aim to keep body copy to 9pt in size. Small print can go to 8pt. All type sits on a baseline grid to ensure layouts feel technical and precise. In the examples shown, the baseline grid is set to 12pt. Large copy blocks feature custom baseline grids in multiples of 12, e.g. 24. Do not — Create layouts that are not to grid — Break the 12pt baseline rule.",
+            "images": [
+                {
+                    "name": "Print Layout Principles",
+                    "alternative_names": ["Print Layout Guide", "Editorial Layout Example", "Print Design"],
+                    "url": "https://res.cloudinary.com/brandpad/image/upload/c_scale,dpr_auto,f_auto,w_3072/v1/10708/layout-principles-28",
+                    "download_link": "https://res.cloudinary.com/brandpad/image/upload/c_scale,dpr_auto,f_auto,w_3072/v1/10708/layout-principles-28"
+                }
+            ]
+        },
+        {
+            "title": "Digital Layout",
+            "alternative_titles": ["Digital Design", "Online Layout", "Web Layout"],
+            "description": "These examples illustrate some of the most common digital formats. We follow three steps to determine the logo size, margin widths, and column grid. To cater to the variety of banner sizes, it may be necessary to flex the sizing principles. Please read the print layout principles before continuing in this section. Logo sizing: Divide the diagonal length of the format using these examples as a guide. This provides the logo width (X). Margins and logo positioning: Margins are determined by the P of Power. The logo is typically placed centered on the vertical and horizontal axis and can shift up, down, left, and right as necessary. Column grid: A basic and flexible column grid is created using divisions of 3 as shown.",
+            "images": [
+                {
+                    "name": "Digital Layout",
+                    "alternative_names": ["Digital Layout Example", "Web Design Example", "Online Layout Guide"],
+                    "url": "https://res.cloudinary.com/brandpad/image/upload/c_scale,dpr_auto,f_auto,w_3072/v1/10708/digital_layout-15",
+                    "download_link": "https://res.cloudinary.com/brandpad/image/upload/c_scale,dpr_auto,f_auto,w_3072/v1/10708/digital_layout-15"
+                },
+                {
+                    "name": "Digital Layout - Banners",
+                    "alternative_names": ["Digital Banner Example", "Web Banner Layout", "Online Banner Guide"],
+                    "url": "https://res.cloudinary.com/brandpad/image/upload/c_scale,dpr_auto,f_auto,w_3072/v1/10708/digital_layout_banners-16",
+                    "download_link": "https://res.cloudinary.com/brandpad/image/upload/c_scale,dpr_auto,f_auto,w_3072/v1/10708/digital_layout_banners-16"
+                },
+                {
+                    "name": "Digital Layout - Banners",
+                    "alternative_names": ["Digital Banner Example", "Web Banner Layout", "Online Banner Guide"],
+                    "url": "https://res.cloudinary.com/brandpad/image/upload/c_scale,dpr_auto,f_auto,w_3072/v1/10708/digital_layout_banners-17",
+                    "download_link": "https://res.cloudinary.com/brandpad/image/upload/c_scale,dpr_auto,f_auto,w_3072/v1/10708/digital_layout_banners-17"
+                }
+            ]
+        },
+        {
+            "title": "Home & Away Communications",
+            "alternative_titles": ["Internal and External Comms", "Brand Application", "Home vs. Away"],
+            "description": "When creating communications, consider where they will appear, either in a 'home' or 'away' environment. This determines how we apply our branding. Home environment: A Merlin Power space, such as our website, on our social channels, or showroom. We are already in a Merlin Power branded environment so communications don't require further application of logos. Away environment: An external space such as an exhibition, a digital ad, or a social media post on LinkedIn or Instagram that isn’t appearing on our feed directly (e.g., a promoted or sponsored post). In these instances, we apply our logo. In these examples: 1. Home, no additional branding required. 1. Home, featuring M Icon. 2. Away, featuring Logo.",
+            "images": [
+                {
+                    "name": "Home & Away Communications",
+                    "alternative_names": ["Internal vs External", "Brand Application Examples", "Home and Away Visuals"],
+                    "url": "https://res.cloudinary.com/brandpad/image/upload/c_scale,dpr_auto,f_auto,w_3072/v1/10708/brandpad-guidelines_home-away_communication-27-27",
+                    "download_link": "https://res.cloudinary.com/brandpad/image/upload/c_scale,dpr_auto,f_auto,w_3072/v1/10708/brandpad-guidelines_home-away_communication-27-27"
+                }
+            ]
+        },
+        {
+            "title": "Brand in Application",
+            "alternative_titles": ["Brand Usage Examples", "Brand Applied", "Application Examples"],
+            "description": "The following section provides examples of the brand identity system in application. Use them as inspiration when creating your own communications and brand touchpoints.",
+            "images": [
+                {
+                    "name": "Website Homepage",
+                    "alternative_names": ["Homepage Example", "Website Design", "Homepage Layout"],
+                    "url": "https://res.cloudinary.com/brandpad/image/upload/c_scale,dpr_auto,f_auto,w_3072/v1/10708/application_imagestyle2",
+                    "download_link": "https://res.cloudinary.com/brandpad/image/upload/c_scale,dpr_auto,f_auto,w_3072/v1/10708/application_imagestyle2"
+                },
+                {
+                    "name": "Website Homepage",
+                    "alternative_names": ["Homepage Example", "Website Design", "Homepage Layout"],
+                    "url": "https://res.cloudinary.com/brandpad/image/upload/c_scale,dpr_auto,f_auto,w_3072/v1/10708/application_homepage3-18",
+                    "download_link": "https://res.cloudinary.com/brandpad/image/upload/c_scale,dpr_auto,f_auto,w_3072/v1/10708/application_homepage3-18"
+                },
+                {
+                    "name": "Website Product Page",
+                    "alternative_names": ["Product Page Example", "Website Product Layout", "Product Page Design"],
+                    "url": "https://res.cloudinary.com/brandpad/image/upload/c_scale,dpr_auto,f_auto,w_3072/v1/10708/brandpad-guidelines_website_datacell",
+                    "download_link": "https://res.cloudinary.com/brandpad/image/upload/c_scale,dpr_auto,f_auto,w_3072/v1/10708/brandpad-guidelines_website_datacell"
+                },
+                {
+                    "name": "Social Media Posts",
+                    "alternative_names": ["Social Post Examples", "Social Media Visuals", "Social Design Examples"],
+                    "url": "https://res.cloudinary.com/brandpad/image/upload/c_scale,dpr_auto,f_auto,w_3072/v1/10708/social_banners2-26",
+                    "download_link": "https://res.cloudinary.com/brandpad/image/upload/c_scale,dpr_auto,f_auto,w_3072/v1/10708/social_banners2-26"
+                },
+                {
+                    "name": "Emailer",
+                    "alternative_names": ["Email Example", "Email Design", "Email Layout"],
+                    "url": "https://res.cloudinary.com/brandpad/image/upload/c_scale,dpr_auto,f_auto,w_3072/v1/10708/application_emailer-19",
+                    "download_link": "https://res.cloudinary.com/brandpad/image/upload/c_scale,dpr_auto,f_auto,w_3072/v1/10708/application_emailer-19"
+                },
+                {
+                    "name": "Email Footer",
+                    "alternative_names": ["Email Footer Example", "Footer Design", "Email Layout Example"],
+                    "url": "https://res.cloudinary.com/brandpad/image/upload/c_scale,dpr_auto,f_auto,w_3072/v1/10708/brandpad-guidelines_emailer_footer",
+                    "download_link": "https://res.cloudinary.com/brandpad/image/upload/c_scale,dpr_auto,f_auto,w_3072/v1/10708/brandpad-guidelines_emailer_footer"
+                }
+            ]
+        },
+        {
+            "title": "Merlin Defence",
+            "alternative_titles": ["Defence Sector", "Military Applications", "Defence Communications"],
+            "description": "Merlin Defence is signalled by the introduction of the colour Desert Sand. When creating defence communications, there MUST ALWAYS be a presence of Volt Blue to ensure brand recognition. The examples show how this can be achieved by either applying Volt Blue brand assets over defence content or using Volt Blue imagery with Desert Sand brand assets applied. Note that the only graphic that can appear in Desert Sand is the M Asset, our logo must only appear in the colourways as shown in the Logo Section. Do not: — Create comms without Volt Blue — Apply our logo in Desert Sand.",
+            "colours": [
+                {
+                    "name": "Merlin Desert Sand",
+                    "alternative_names": ["Desert Sand", "Military Sand", "Defence Sand"],
+                    "hex": "#CFB991",
+                    "rgb": "207, 185, 145"
+                }
+            ],
+            "images": [
+                {
+                    "name": "Defence",
+                    "alternative_names": ["Defence Example", "Military Visual", "Defence Sector Image"],
+                    "url": "https://res.cloudinary.com/brandpad/image/upload/v1/10708/nimrs-ajban-447a_v2",
+                    "download_link": "https://res.cloudinary.com/brandpad/image/upload/v1/10708/nimrs-ajban-447a_v2"
+                }
+            ]
+        }
+    ]
+}
